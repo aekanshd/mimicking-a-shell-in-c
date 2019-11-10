@@ -4,7 +4,7 @@
 
 ```sudo apt-get install libreadline-dev```
 
-## Hot to compile
+## How to compile
 
 To run the project, use the command: `make a.out`.
 
